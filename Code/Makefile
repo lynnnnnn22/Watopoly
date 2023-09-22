@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -std=c++14 -g -Wall -MMD -Werror=vla
 OBJECTS = academic.o controller.o coopfee.o dctims.o goose.o gotims.o grid.o gym.o main.o needleshall.o osap.o ownable.o player.o property.o residence.o slc.o tuition.o unownable.o dice.o
 DEPENDS = ${OBJECTS:.o=.d}
-EXEC = watopoly
+EXEC = ../watopoly
 
 ${EXEC} : ${OBJECTS}
 	${CXX} ${CXXFLAGS} ${OBJECTS} -o ${EXEC}
