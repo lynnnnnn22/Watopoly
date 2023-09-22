@@ -1,0 +1,39 @@
+roll 1 0
+all
+next
+roll 1 0
+next
+roll 1 0
+next
+roll 3 0
+assets
+next
+roll 4 0
+assets
+next
+roll 4 0
+assets
+next
+roll 2 0
+assets
+next
+assets
+roll 37 0
+bankrupt
+next
+all
+roll 0 0
+next
+assets
+roll 0 0
+assets
+next
+all
+roll 3 0
+1
+bankrupt
+all
+roll 1 0
+2
+mortgage PAS
+bankrupt

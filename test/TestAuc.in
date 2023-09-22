@@ -1,0 +1,40 @@
+roll 3 0
+N
+raise 50
+raise 40
+raise 50
+raise 51
+withdraw
+withdraw
+raise 40
+riase 60
+withdraw
+next
+roll 1 0
+N
+withdraw
+withdraw
+withdraw
+next
+roll 1 0
+roll 1 0
+next
+roll 1 0
+1
+raise 1
+rase 100
+raise 300
+raise 400
+withdraw
+raise 500
+withdraw
+roll 2 3
+Y
+next
+roll 2 1
+2
+next
+roll 2 1
+2
+next
+

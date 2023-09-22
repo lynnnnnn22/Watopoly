@@ -1,0 +1,9 @@
+Y
+roll 1 0
+mortgage MKV
+save TestSaveTimsSentD3_mortToPay.txt
+next
+roll 40 0
+next
+roll 1 0
+next

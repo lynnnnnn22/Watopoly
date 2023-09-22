@@ -1,0 +1,13 @@
+roll 1 0
+Y
+next
+roll 1 0
+Y
+next
+roll 2 0
+Y
+withdraw
+next
+roll 0 2
+Y
+improve AL buy

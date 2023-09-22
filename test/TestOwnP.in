@@ -1,0 +1,40 @@
+roll 1 0
+Y
+next
+roll 1 0
+Y
+next
+roll 1 0
+Y
+all
+next
+roll 1 0
+all
+next
+roll 1 0
+trade Goose 100 AL
+reject
+all
+next
+roll 1 0
+next
+all
+roll 2 0
+Y
+next
+all
+roll 1 0
+Y
+next
+roll 1 0
+Y
+next
+roll 0 0
+all
+next
+roll 2 0
+next
+roll 2 0
+next
+roll 1 0
+2

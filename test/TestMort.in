@@ -1,0 +1,51 @@
+all
+roll 3 0
+mortgage AL
+mortgage ML
+bankrupt
+next
+all
+roll 1 0
+assets
+next
+roll 21 0
+next
+all
+mortgage DWE
+mortgage RCH
+mortgage RCH
+roll 0 0
+next
+mortgage MKV
+unmortgame MKV
+roll 0 0
+next
+all
+mortgage MKV
+mortgage ML
+mortgage EV1
+mortgage PAC
+roll 0 0
+next
+roll 7 0
+bankrupt
+next
+roll 28 0
+next
+roll 4 0
+next
+unmortgage RCH
+roll 0 0
+next
+roll 0 0
+next
+unmortgage ML
+unmortgage PAC
+roll 0 0
+next
+all
+save TestMort_Played.txt
+roll 1 0
+assets
+bankrupt
+Y

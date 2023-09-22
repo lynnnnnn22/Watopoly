@@ -1,0 +1,87 @@
+all
+trade Professor AL 100
+accept
+roll 1 0
+next
+trade Pink_tie PAS 300
+trade Pink_tie HH 300
+roll 1 0
+next
+all
+trade Goose 100 AL
+trade Professor 150 ECH
+roll 1 0
+next
+trade Goose 100 AL
+trade Professor 150 ECH
+all
+trade Professor 1500 ECH
+roll 2 0
+next
+roll 11 0
+Y
+next
+roll 27 0
+Y
+trade Goose MC 150
+reject
+trade Goose MC 150
+reject
+next
+trade GRT_Bus 300 MC
+reject
+roll 0 0
+next
+roll 0 0
+next
+roll 2 0
+next
+roll 2 0
+next
+roll 2 0
+Y
+all
+trade Student EV1 100
+reject
+trade Goose EV2 100
+reject
+next
+roll 2 0
+Y
+all
+trade Goose MC 300
+trade Professor HH 200
+trade Professor 200 HH
+trade Pink_tie 100 EV1
+trade Laptop 100 EV1
+reject
+trade Laptop 100 EV2
+reject
+next
+roll 0 0
+next
+roll 0 0
+next
+all
+roll 16 0
+trade Laptop 200 EV1
+reject
+trade Laptop EV3 200
+reject
+next
+roll 5 0
+next
+save TestTrade_Played.txt
+trade Goose EV1 200
+accept
+all
+trade Goose 200 EV1
+accept
+all
+trade Student 200 EV2
+trade Student EV3 200
+trade Student 200 EV3
+accept
+all
+roll 0 0
+next

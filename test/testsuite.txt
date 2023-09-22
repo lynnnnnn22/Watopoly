@@ -1,0 +1,10 @@
+noinputargs.in
+TestUnOwnP.in
+TestOwnP.in
+TestOSAP.in
+TestTrade.in
+TestBankrupt.in
+TestImp.in
+TestTimsWithCup.in
+TestPurchase.in
+TestMort.in

@@ -1,0 +1,20 @@
+roll 1 0
+Y
+next
+roll 1 0
+trade Goose 100 AL
+accept
+unmortgage AL
+next
+roll 0 2
+Y
+next
+roll 0 2
+Y
+next
+improve DC buy
+trade Professor DC 300
+improve DC sell
+roll 0 2
+next
+

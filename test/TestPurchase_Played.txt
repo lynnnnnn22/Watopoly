@@ -1,0 +1,10 @@
+6
+Goose G 0 200 37 
+Professor P 0 0 3 
+Student S 1 1000 20 
+Pink_tie T 2 1000 20 
+Laptop L 1 1000 20 
+GRT_Bus B 0 1000 20 
+AL Professor 1
+ML Professor 0
+DC Goose 0

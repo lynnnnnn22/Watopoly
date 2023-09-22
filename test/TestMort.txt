@@ -1,0 +1,35 @@
+6
+Goose G 0 0 10 0
+Professor P 0 50 23
+Student S 1 1000 20
+Pink_tie T 2 1000 20
+Laptop L 1 1000 20
+GRT_Bus B 0 1000 20
+AL Goose 0
+ML Goose 0
+MKV Laptop 0
+ECH Professor 0
+PAS BANK 0
+HH BANK 0
+RCH Pink_tie 0
+PAC GRT_Bus 0
+DWE Pink_tie 1
+CPH BANK 0
+UWP BANK 0
+LHI BANK 0
+BMH BANK 0
+OPT BANK 0
+EV1 Student 1
+EV2 Student 1
+EV3 Student 1
+V1 BANK 0
+PHYS BANK 0
+B1 BANK 0
+CIF BANK 0
+B2 BANK 0
+EIT BANK 0
+ESC BANK 0
+C2 BANK 0
+REV BANK 0
+MC BANK 0
+DC BANK 0
